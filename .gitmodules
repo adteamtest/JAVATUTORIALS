@@ -1,0 +1,3 @@
+[submodule "newGitTest"]
+	path = newGitTest
+	url = https://github.com/adarshem/newGitTest.git
